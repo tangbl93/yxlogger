@@ -1,4 +1,4 @@
-import 'package:logger/logger.dart';
+import 'package:yxlogger/yxlogger.dart';
 import 'package:test/test.dart';
 
 void main() {

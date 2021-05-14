@@ -1,4 +1,4 @@
-import 'package:logger/src/logger.dart';
+import 'package:yxlogger/src/logger.dart';
 
 class StdinLogger implements Logger {
   @override
