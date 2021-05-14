@@ -1,7 +1,7 @@
-name: logger
-description: loggers
+name: yxlogger
+description: yxlogger
 version: 1.0.0
-homepage: https://github.com/tangbl93/logger
+homepage: https://github.com/tangbl93/yxlogger
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
